@@ -13,4 +13,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', fn() => ['Welcome to Coffee Api!']);
+Route::get('/', fn () => ['Welcome to Coffee Api!']);
